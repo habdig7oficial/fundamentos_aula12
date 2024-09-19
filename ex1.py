@@ -23,4 +23,4 @@ f&l!z n@t@l """
             new_msg.append(msg[i])
         i += 1
     break
-print("".join(new_msg))u
+print("".join(new_msg))
